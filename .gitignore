@@ -1,0 +1,20 @@
+# Executables & Binaries
+*.bin
+*.out
+*.exe
+*.elf
+
+# Object Files & Relocatable Code
+*.o
+*.obj
+
+# Debugging Symbols & Listing Files
+*.lst
+*.map
+*.pdb
+*.dSYM/
+
+# Build System Outputs (Make, CMake, Ninja)
+build/
+bin/
+Makefile.bak
