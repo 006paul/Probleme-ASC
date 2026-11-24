@@ -17,4 +17,5 @@
 # Build System Outputs (Make, CMake, Ninja)
 build/
 bin/
-Makefile.bak*.txt
+Makefile.bak
+*.txt
